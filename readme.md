@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mattbit/meteo.svg?branch=master)](https://travis-ci.org/mattbit/meteo)
+
 # Paris weather forecasts
 
 A simple mathematical model to provide weather forecasts for Paris, France.
